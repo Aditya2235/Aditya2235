@@ -27,9 +27,9 @@ Who exactly is Aditya?🤔
 
 ✔️ Apart from this, I have work experience as web developer intern from Nibodh educate Pvt.Lmd , KPMG US as a Data Analytics Consulting Virtual Internship & JPMorgan Chase & Co. as a Software Engineering Virtual Experience.
 
-🏅 Apart from this I love to code. I've 6 🌟 in problem solving, 5 🌟 in C, Java, Python and 30 days of code from Hackerrank.
+🏅 Apart from this I love to code. I've 3🌟 in problem solving, 5 🌟 in C, Java, Python and 30 days of code from Hackerrank.
 
-Sounds like something you need? Then let's connect! 📧- thakuraditya76076@gmail.com
+Sounds like something you need? Then let's connect! 📧- thakuraditya1926@gmail.com
 
 PS: Currently, I am looking for internships and research projects in the field of Computer science and engineering i.e SDE Intern, Analyst and Content Writing roles. Also, I do take up freelance roles.
 
