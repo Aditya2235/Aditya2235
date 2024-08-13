@@ -81,5 +81,3 @@ Intern (May 2019 - Jun 2019)
 Feel free to reach out if you’re looking for an SDE Intern, Analyst, or Content Writing roles. I’m also open to freelance opportunities!
 
 ---
-
-Let me know if you need any further modifications!
