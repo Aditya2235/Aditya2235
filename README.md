@@ -23,54 +23,6 @@ I am passionate about technology and thrive on engaging with people who inspire 
 
 ---
 
-## 🎓 Education
-
-- Bachelor's Degree in Artificial Intelligence and Data Science
-Thakur College of Engineering and Technology, Mumbai
-CGPA: 9.4% (2021 - 2023)
-
-- Diploma in Computer Engineering
-Thakur Polytechnic, Mumbai
-Percentage: 84.91% (2018 - 2020)
-
----
-
-## 🛠️ Professional Experience
-
-### INS HAMLA (Indian Navy), Mumbai, India
-Software Developer (Dec 2023 - Present)
-- Developed responsive websites and robust backend applications using .NET, MySQL, and PHP.
-- Architected user-centric software for the WTP SOFTWARE, optimizing for scalability and performance.
-- Led the development of the INS Examination System and the INS HAMLA website.
-
-### Oasis Info Byte, New Delhi, India
-Intern (Nov 2021 - Feb 2022)
-- Built a backend web application using Python and Django.
-- Collaborated with frontend developers to finalize APIs for UI/UX support.
-
-### Nibodh Summer Internship, Mumbai, India
-Intern (May 2019 - Jun 2019)
-- Learned web application development using HTML, CSS, and JavaScript.
-- Assisted in translating user requirements into project designs.
-
----
-
-## 🚀 Projects
-
-- Tooth My Way Dental Clinic: Developed a comprehensive website featuring live streaming for virtual consultations.
-- Biological Farming: Created an educational webpage promoting sustainable farming solutions.
-- Ace Placement: Built a web application to enhance the efficiency of the Training and Placement Office.
-
----
-
-## 🏆 Achievements
-
-- Power BI Virtual Case Experience - Certificate of Completion (Dec 2023)
-- Data Analytics Professional Course - Certificate of Completion (May 2023)
-- Microsoft Certified: Azure AI Fundamentals (AI-900) (Apr 2023)
-- 5 Stars in SQL, Python, C++, and C Programming on HackerRank
-
----
 
 ## 📞 Contact
 
@@ -81,6 +33,6 @@ Intern (May 2019 - Jun 2019)
 
 ### 🌟 Let’s Connect!
 
-I’m currently seeking internships and research projects in Computer Science and Engineering, including roles as an SDE Intern, Analyst, and Content Writer. I’m also open to freelance opportunities. If you’re looking for someone with my skills, let’s chat!
+I’m currently seeking Job and research projects in Computer Science and Engineering, including roles as an SDE Intern, Analyst, and Content Writer. I’m also open to freelance opportunities. If you’re looking for someone with my skills, let’s chat!
 
 ---
