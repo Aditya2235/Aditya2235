@@ -15,11 +15,14 @@ I am passionate about technology and thrive on engaging with people who inspire 
 
 ## 💻 Skills
 
-- Programming Languages: C, C++, Java, Python, JavaScript, PHP, R
-- Web Development: HTML, CSS, Bootstrap, ASP.NET
-- Frameworks/Libraries: Django, Scikit-learn, TensorFlow, Keras
-- Databases: MySQL, MongoDB, Oracle
-- Soft Skills: Excellent communication, teamwork, problem-solving, stakeholder management
+Programming Languages: C Programming, C++, Java, Python, PHP and SQL (Structure Query language).
+Data Visualization Tools: Power BI, Tableau, Jupyter Notebooks, MS Office (MS word, Advance Excel, PowerPoint)
+Algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines, k-means
+Frameworks/Libraries: Scikit-learn, Seaborn, Numpy, OpenCV, Matplotlib, TensorFlow, Keras
+Analytical Skills: Data Modeling, Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Statistical Data analysis
+Database: MySQL, MongoDB, Oracle Database, Django.
+Soft Skill:  Report Building, Strong Stakeholder Management, People Management, Excellent Communication Skill, Team Collaboration, Strong Problem-Solving Abilities, Interviewing.
+
 
 ---
 
